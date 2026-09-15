@@ -21,5 +21,4 @@
 
 ## Network Topology
 
-![home network diagram](network-overview/home-network-diagram.png)
-
+![simulated home network diagram](network-overview/cisco-packet-tracer/simulated-topology.png)
