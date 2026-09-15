@@ -17,7 +17,9 @@
   - Cable: SPECTRA CAT5e FTP
   - Local Router: Tenda F3
   - Wireless standard: IEEE 802.11b/g/n, only support 2.4 GHz
-  - Client devices: laptop, phones, smart TV
+  - Client devices: laptop, smartphones, smart TV
 
 ## Network Topology
+
+![home network diagram](network-overview/home-network-diagram.png)
 
