@@ -1,4 +1,4 @@
-# NETWORK INVENTORY
+# NETWORK OVERVIEW
 
 ## Network Devices
 
