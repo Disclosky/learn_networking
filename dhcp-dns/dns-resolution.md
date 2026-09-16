@@ -57,7 +57,7 @@
   
 ### 3. DNS Packet Capture
 
-  ![wireshark capturing the dns resolving IP address for example.com](./img/Screenshot 2026-09-16 061431.png)
+  ![wireshark capturing the dns resolving IP address for example.com](./img/Screenshot_2026-09-16_061431.png)
 
   The captured traffic contained DNS query and response packets.
 
