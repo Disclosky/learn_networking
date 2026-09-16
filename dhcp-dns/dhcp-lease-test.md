@@ -1,15 +1,15 @@
 # DHCP Lease Test
 
-### Objective
+## Objective
   The objective of this experiment is to observe how a device can have their IP address and other configurations without user manually configure it one by one using DHCP.
 
-### DHCP Configuration
+## DHCP Configuration
 
  ???
  
 
----
-### 1. What Happen If I Erase IP Configured In My Laptop?
+
+## 1. What Happen If I Erase IP Configured In My Laptop?
   By using `ipconfig /release` we can acieve that. It will erase all Network Adapter that configured by DHCP on our device.
 
   ![0.0.0.0](./img/Screenshot_2026-09-16_070823.png)
