@@ -19,6 +19,6 @@
   - Wireless standard: IEEE 802.11b/g/n, only support 2.4 GHz
   - Client devices: laptop, smartphones, smart TV
 
-## Network Topology
+
 
 ![simulated home network diagram](network-overview/cisco-packet-tracer/simulated-topology.png)
