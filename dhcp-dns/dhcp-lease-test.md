@@ -19,7 +19,7 @@
 
   ![DORA process](./img/Screenshot_2026-09-16_070823.png)
 
-  Interestingly the laptop will notice that they are connected to a network but don't have an IP address. 
+  Interestingly the laptop will notice that it's connected to a network but don't have an IP address. 
   
   Then it sends out a DHCP Discover message to find any available DHCP servers. 
   But since it doesn't know where to send the message, it shouts to the entire network.
