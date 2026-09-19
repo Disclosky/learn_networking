@@ -99,5 +99,5 @@
   - The destination `1.1.1.1` was reached after the observed intermediate hops.
 
 
-![packet capture tracert 1.1.1.1](arp-routing/img/Screenshot_2026-09-19_221007.png)
+![packet capture tracert 1.1.1.1](./img/Screenshot_2026-09-19_221007.png)
 > Wireshark capture showing ICMP traceroute probes with increasing TTL values and the corresponding ICMP Time-to-live exceeded responses.
