@@ -52,7 +52,7 @@
   DNS server = 192.168.0.250
 
 ## Network Evidence
-  ![an ARP request with no reply](./img/)
+  ![an ARP request with no reply](./img/Screenshot_2026-09-20_194720.png)
 
 ## Verification
   ```
