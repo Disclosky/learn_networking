@@ -15,8 +15,8 @@
   | Smartphone | 28.63 Mbps | -          | 16 ms |
 
 <p align="center">
-  <img src="troubleshooting/img/Screenshot_2026-09-22_021902.png" width="58%">
-  <img src="troubleshooting/img/Screenshot_20260922-022026_init.png" width="39%">
+  <img src="./img/Screenshot_2026-09-22_021902.png" width="58%">
+  <img src="./img/Screenshot_20260922-022026_init.png" width="39%">
 </p>
 
 The laptop was able to achieve around 90 Mbps, while the smartphone was significantly slower.
@@ -96,7 +96,7 @@ The laptop was able to achieve around 90 Mbps, while the smartphone was signific
   Moving closer to the router did not significantly improve throughput.
 
 ### Test 5 - Test With Another Router
-<img src="troubleshooting/img/Screenshot_20260922-215021.png" align="right" width="350">
+<img src="./img/Screenshot_20260922-215021.png" align="right" width="350">
 
   The original router was temporarily replaced with another router.
 
@@ -155,7 +155,5 @@ The laptop was able to achieve around 90 Mbps, while the smartphone was signific
   and router hardware affected its observed throughput.
 
   However, the exact root cause could not be conclusively determined from the available tests.
-
- ---
  
   > Further testing with other smartphones will be conducted in the future. 
