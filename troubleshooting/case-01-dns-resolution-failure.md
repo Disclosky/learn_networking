@@ -1,6 +1,6 @@
 # CASE 01 — DNS Resolution Failure
 
-## Symptom
+## Problem
   Cannot Resolve a Website Domain
 
 ## Investigation
